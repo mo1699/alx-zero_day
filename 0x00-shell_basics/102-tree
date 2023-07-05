@@ -1,0 +1,3 @@
+#!/bin/bash
+mk welcome/to/
+touch school
