@@ -1,3 +1,2 @@
 #!/bin/bash
-mk welcome/to/
-touch school
+mk -p /welcome/to/school
